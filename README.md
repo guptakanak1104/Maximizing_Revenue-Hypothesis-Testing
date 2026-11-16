@@ -110,11 +110,5 @@ Interpret the findings in the context of the dataset and draw conclusions based 
 - SciPy Statistical Tests
 - Data-Driven Decision Making
 
-## 🏁 Conclusion
 
-This project provides practical experience in applying **Hypothesis Testing to real-world datasets**.
-
-It demonstrates how statistical tests can be used to evaluate assumptions, compare groups, identify significant differences, and support data-driven decision-making.
-
-By combining Python, statistical analysis, and visualization, the project builds a foundation for understanding and applying statistical methods in Data Analytics.
 
