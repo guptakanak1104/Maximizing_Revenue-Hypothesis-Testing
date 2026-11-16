@@ -1,4 +1,4 @@
-# 📊 Hypothesis Testing Project
+# 📊 Maximizing Revenue Through Hypothesis Testing
 
 ## 📌 Project Overview
 
